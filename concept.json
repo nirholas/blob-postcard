@@ -1,0 +1,11 @@
+{
+  "slug": "blob-postcard",
+  "name": "Blob Postcard",
+  "kind": "evm",
+  "description": "Compare Ethereum blob, calldata, and Solana v1 placement for small cultural artifacts.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
