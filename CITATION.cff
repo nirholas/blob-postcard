@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "blob-postcard"
+abstract: "Compare Ethereum blob, calldata, and Solana v1 placement for small cultural artifacts."
+repository-code: "https://github.com/nirholas/blob-postcard"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
