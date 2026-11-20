@@ -8,7 +8,7 @@ Compare Ethereum blob, calldata, and Solana v1 placement for small cultural arti
 
 - Source: https://github.com/nirholas/blob-postcard
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
